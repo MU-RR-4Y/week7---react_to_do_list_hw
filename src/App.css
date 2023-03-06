@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+li {
+  list-style: none;
+  background-color: antiquewhite;
+  margin: 1rem;
+  width : 60%;
+  padding :1rem;
+  
+}
